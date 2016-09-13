@@ -1,0 +1,10 @@
+c:\users\oavera\documents\visual studio 2013\Projects\ExampleTesting\ExampleTesting\bin\Debug\ExampleTesting.exe
+c:\users\oavera\documents\visual studio 2013\Projects\ExampleTesting\ExampleTesting\bin\Debug\ExampleTesting.pdb
+c:\users\oavera\documents\visual studio 2013\Projects\ExampleTesting\ExampleTesting\bin\Debug\ExampleTesting.xml
+c:\users\oavera\documents\visual studio 2013\Projects\ExampleTesting\ExampleTesting\obj\Debug\ExampleTesting.MainForm.resources
+c:\users\oavera\documents\visual studio 2013\Projects\ExampleTesting\ExampleTesting\obj\Debug\ExampleTesting.Resources.resources
+c:\users\oavera\documents\visual studio 2013\Projects\ExampleTesting\ExampleTesting\obj\Debug\ExampleTesting.vbproj.GenerateResource.Cache
+c:\users\oavera\documents\visual studio 2013\Projects\ExampleTesting\ExampleTesting\obj\Debug\ExampleTesting.exe
+c:\users\oavera\documents\visual studio 2013\Projects\ExampleTesting\ExampleTesting\obj\Debug\ExampleTesting.xml
+c:\users\oavera\documents\visual studio 2013\Projects\ExampleTesting\ExampleTesting\obj\Debug\ExampleTesting.pdb
+c:\users\oavera\documents\visual studio 2013\Projects\ExampleTesting\ExampleTesting\obj\Debug\ExampleTesting.FRM_Nuevo.resources
